@@ -1,0 +1,17 @@
+{
+    "name": "ok/hw14",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "dnlmlk",
+            "email": "malekiandan@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
